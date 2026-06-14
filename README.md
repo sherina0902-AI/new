@@ -1,216 +1,844 @@
-Резюме создано для поиска высокооплачиваемой и интересной работы с учетом новых навыков в AI
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ирина Щербич — Налоговый менеджер</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-<title>Резюме — Щербич Ирина Ильгизовна</title> <style> :root { --bg: #f4f7fb; --card: rgba(255, 255, 255, 0.88); --text: #172033; --muted: #5f6f89; --accent: #2563eb; --accent-2: #7c3aed; --accent-3: #06b6d4; --border: rgba(37, 99, 235, 0.16); --shadow: 0 20px 45px rgba(23, 32, 51, 0.10); --radius: 24px; } * { box-sizing: border-box; margin: 0; padding: 0; } body { font-family: Inter, Arial, Helvetica, sans-serif; background: radial-gradient(circle at top left, rgba(37, 99, 235, 0.18), transparent 32%), radial-gradient(circle at top right, rgba(124, 58, 237, 0.16), transparent 35%), linear-gradient(135deg, #f8fbff 0%, #eef4ff 100%); color: var(--text); line-height: 1.65; padding: 40px 18px; } .resume { max-width: 1180px; margin: 0 auto; } .hero { position: relative; overflow: hidden; padding: 48px; border-radius: 32px; background: linear-gradient(135deg, rgba(255,255,255,0.95), rgba(255,255,255,0.68)), linear-gradient(135deg, rgba(37,99,235,0.12), rgba(124,58,237,0.12)); box-shadow: var(--shadow); border: 1px solid rgba(255,255,255,0.8); margin-bottom: 28px; } .hero::after { content: ""; position: absolute; width: 280px; height: 280px; right: -80px; top: -80px; border-radius: 50%; background: linear-gradient(135deg, var(--accent), var(--accent-2)); opacity: 0.16; } .eyebrow { text-transform: uppercase; letter-spacing: 0.18em; font-size: 13px; font-weight: 800; color: var(--accent); margin-bottom: 10px; } h1 { font-size: clamp(38px, 7vw, 76px); line-height: 0.95; letter-spacing: -0.06em; margin-bottom: 20px; background: linear-gradient(90deg, #172033, #2563eb, #7c3aed, #06b6d4); -webkit-background-clip: text; background-clip: text; color: transparent; } .contacts { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 26px; } .contact { padding: 10px 16px; border-radius: 999px; background: rgba(37, 99, 235, 0.08); color: #1f3f78; font-weight: 700; border: 1px solid var(--border); } .headline { max-width: 920px; font-size: 21px; font-weight: 800; color: #26344d; } .layout { display: grid; grid-template-columns: 1fr; gap: 24px; } .section { background: var(--card); border: 1px solid rgba(255,255,255,0.75); border-radius: var(--radius); padding: 30px; box-shadow: 0 14px 30px rgba(23, 32, 51, 0.07); backdrop-filter: blur(14px); } .section-title { display: flex; align-items: center; gap: 12px; margin-bottom: 22px; font-size: 25px; line-height: 1.2; letter-spacing: -0.03em; } .section-title::before { content: ""; width: 12px; height: 34px; border-radius: 20px; background: linear-gradient(180deg, var(--accent), var(--accent-2)); flex-shrink: 0; } .positions { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; } .position { padding: 15px 17px; border-radius: 18px; background: linear-gradient(135deg, rgba(37,99,235,0.08), rgba(124,58,237,0.07)); border: 1px solid var(--border); font-weight: 700; } .skills-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; } .skill-card { padding: 20px; border-radius: 22px; background: #ffffff; border: 1px solid var(--border); box-shadow: 0 10px 22px rgba(23, 32, 51, 0.06); transition: transform 0.28s ease, box-shadow 0.28s ease, border-color 0.28s ease; } .skill-card:hover { transform: translateY(-7px); box-shadow: 0 22px 38px rgba(37, 99, 235, 0.16); border-color: rgba(37, 99, 235, 0.35); } .skill-number { display: inline-flex; align-items: center; justify-content: center; width: 34px; height: 34px; margin-bottom: 12px; border-radius: 12px; background: linear-gradient(135deg, var(--accent), var(--accent-2)); color: #fff; font-size: 14px; font-weight: 800; } .timeline { display: grid; gap: 16px; } .timeline-item { position: relative; padding: 20px 20px 20px 26px; border-radius: 20px; background: #fff; border: 1px solid var(--border); } .timeline-item::before { content: ""; position: absolute; left: 0; top: 20px; bottom: 20px; width: 5px; border-radius: 10px; background: linear-gradient(180deg, var(--accent), var(--accent-3)); } .timeline-item h3 { font-size: 18px; margin-bottom: 5px; color: #172033; } .year { display: inline-block; margin-bottom: 8px; font-weight: 800; color: var(--accent); } .case-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; } .case-block { padding: 24px; border-radius: 24px; background: linear-gradient(135deg, rgba(37,99,235,0.10), rgba(6,182,212,0.08)), #ffffff; border: 1px solid rgba(37, 99, 235, 0.18); box-shadow: 0 14px 28px rgba(23, 32, 51, 0.06); } .case-block strong { display: block; margin-bottom: 10px; font-size: 18px; color: #1f3f78; } .tags { display: flex; flex-wrap: wrap; gap: 10px; } .tag { padding: 9px 13px; border-radius: 999px; background: #fff; border: 1px solid rgba(37, 99, 235, 0.22); color: #274060; font-size: 14px; font-weight: 800; box-shadow: 0 8px 18px rgba(23, 32, 51, 0.05); } .focus { padding: 26px; border-radius: 26px; color: #fff; background: linear-gradient(135deg, rgba(23,32,51,0.96), rgba(37,99,235,0.92)), linear-gradient(135deg, var(--accent), var(--accent-2)); box-shadow: var(--shadow); } .focus p + p { margin-top: 16px; } @media (max-width: 860px) { body { padding: 22px 12px; } .hero { padding: 30px 22px; border-radius: 26px; } .section { padding: 24px 18px; } .positions, .skills-grid, .case-grid { grid-template-columns: 1fr; } .headline { font-size: 18px; } .section-title { font-size: 22px; } } @media print { body { background: #fff; padding: 0; } .resume { max-width: 100%; } .hero, .section, .skill-card, .case-block { box-shadow: none; } .skill-card:hover { transform: none; } } </style>
-<section class="hero">
-  <div class="eyebrow">Резюме</div>
-  <h1>Щербич Ирина Ильгизовна</h1>
+  :root {
+    --navy: #1a2744;
+    --navy-mid: #243460;
+    --blue: #2f4fc4;
+    --accent: #3d6ee8;
+    --accent-light: #dfe8ff;
+    --gold: #e2b84a;
+    --text: #0f1623;
+    --text-mid: #2d3a52;
+    --text-light: #4a5a78;
+    --bg: #f0f3fb;
+    --white: #ffffff;
+    --border: #cdd6ee;
+    --shadow: 0 4px 24px rgba(26,39,68,0.10);
+    --shadow-hover: 0 8px 36px rgba(52,84,168,0.18);
+  }
 
-  <div class="contacts">
-    <div class="contact">Тел. +7 915 339 1983</div>
-    <div class="contact">irina_msk_job@mail.ru</div>
+  html { scroll-behavior: smooth; }
+
+  body {
+    font-family: 'Inter', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.65;
+    min-height: 100vh;
+  }
+
+  /* ── HERO ── */
+  .hero {
+    background: linear-gradient(135deg, var(--navy) 0%, var(--navy-mid) 55%, var(--blue) 100%);
+    padding: 0 0 56px;
+    position: relative;
+    overflow: hidden;
+  }
+  .hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.03'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  }
+
+  .hero-nav {
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px 48px 0;
+    gap: 8px;
+  }
+  .hero-nav a {
+    color: rgba(255,255,255,0.85);
+    text-decoration: none;
+    font-size: 0.8rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 6px 14px;
+    border-radius: 20px;
+    transition: all 0.2s;
+  }
+  .hero-nav a:hover { color: #fff; background: rgba(255,255,255,0.1); }
+
+  .hero-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 40px 48px 0;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 48px;
+    align-items: center;
+    position: relative;
+  }
+
+  .photo-wrap {
+    position: relative;
+    flex-shrink: 0;
+  }
+  .photo-wrap::after {
+    content: '';
+    position: absolute;
+    inset: -6px;
+    border-radius: 50%;
+    border: 2px solid var(--gold);
+    opacity: 0.6;
+  }
+  .photo-wrap img {
+    width: 148px;
+    height: 148px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: top center;
+    border: 4px solid rgba(255,255,255,0.18);
+    display: block;
+  }
+
+  .hero-text { color: #fff; }
+
+  .hero-role {
+    font-size: 0.78rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--gold);
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+
+  .hero-name {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(2rem, 4vw, 3rem);
+    font-weight: 700;
+    line-height: 1.1;
+    background: linear-gradient(135deg, #ffffff 30%, rgba(255,255,255,0.65) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 14px;
+  }
+
+  .hero-tagline {
+    font-size: 1.05rem;
+    color: rgba(255,255,255,0.92);
+    max-width: 560px;
+    margin-bottom: 28px;
+    font-weight: 400;
+  }
+
+  .hero-contacts {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  .contact-chip {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    background: rgba(255,255,255,0.1);
+    border: 1px solid rgba(255,255,255,0.18);
+    color: rgba(255,255,255,0.97);
+    border-radius: 24px;
+    padding: 6px 16px;
+    font-size: 0.85rem;
+    backdrop-filter: blur(8px);
+    transition: background 0.2s;
+  }
+  .contact-chip:hover { background: rgba(255,255,255,0.18); }
+  .contact-chip svg { opacity: 0.7; flex-shrink: 0; }
+
+  /* ── STATS BAR ── */
+  .stats-bar {
+    background: var(--white);
+    border-bottom: 1px solid var(--border);
+    box-shadow: var(--shadow);
+  }
+  .stats-bar-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 48px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+  }
+  .stat {
+    padding: 24px 16px;
+    text-align: center;
+    border-right: 1px solid var(--border);
+    transition: background 0.2s;
+  }
+  .stat:last-child { border-right: none; }
+  .stat:hover { background: var(--accent-light); }
+  .stat-num {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.9rem;
+    font-weight: 700;
+    color: var(--navy);
+    line-height: 1;
+    margin-bottom: 4px;
+  }
+  .stat-label {
+    font-size: 0.75rem;
+    color: var(--text-light);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-weight: 500;
+  }
+
+  /* ── MAIN LAYOUT ── */
+  .main {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 48px 48px 80px;
+    display: grid;
+    grid-template-columns: 1fr 320px;
+    gap: 40px;
+    align-items: start;
+  }
+
+  /* ── SECTION TITLES ── */
+  .section { margin-bottom: 48px; }
+  .section-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.35rem;
+    color: var(--navy);
+    margin-bottom: 24px;
+    padding-bottom: 12px;
+    border-bottom: 2px solid var(--accent-light);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .section-title::before {
+    content: '';
+    display: inline-block;
+    width: 4px;
+    height: 22px;
+    background: linear-gradient(to bottom, var(--accent), var(--gold));
+    border-radius: 2px;
+    flex-shrink: 0;
+  }
+
+  /* ── JOB CARDS ── */
+  .job {
+    background: var(--white);
+    border-radius: 16px;
+    padding: 28px 32px;
+    margin-bottom: 20px;
+    box-shadow: var(--shadow);
+    border: 1px solid var(--border);
+    transition: box-shadow 0.25s, transform 0.25s;
+  }
+  .job:hover { box-shadow: var(--shadow-hover); transform: translateY(-2px); }
+
+  .job-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 6px;
+  }
+  .job-company {
+    font-size: 0.78rem;
+    color: var(--accent);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 4px;
+  }
+  .job-title {
+    font-size: 1.08rem;
+    font-weight: 700;
+    color: var(--navy);
+    line-height: 1.3;
+  }
+  .job-period {
+    background: var(--accent-light);
+    color: var(--blue);
+    font-size: 0.78rem;
+    font-weight: 600;
+    padding: 5px 13px;
+    border-radius: 20px;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .job-location {
+    font-size: 0.82rem;
+    color: var(--text-light);
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+
+  /* ── ACCORDION ── */
+  .accordion { margin-bottom: 12px; }
+  .accordion-btn {
+    width: 100%;
+    text-align: left;
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 12px 18px;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.88rem;
+    font-weight: 600;
+    color: var(--navy);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    transition: background 0.2s, border-color 0.2s;
+  }
+  .accordion-btn:hover { background: var(--accent-light); border-color: var(--accent); }
+  .accordion-btn .arrow {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: var(--accent-light);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.3s, background 0.2s;
+    flex-shrink: 0;
+  }
+  .accordion-btn.open .arrow { transform: rotate(180deg); background: var(--accent); }
+  .accordion-btn.open .arrow svg path { stroke: #fff; }
+  .accordion-body {
+    display: none;
+    padding: 16px 18px;
+    font-size: 0.88rem;
+    color: var(--text-mid);
+    border: 1px solid var(--border);
+    border-top: none;
+    border-radius: 0 0 10px 10px;
+    background: var(--white);
+    line-height: 1.7;
+  }
+  .accordion-body.open { display: block; }
+  .accordion-body ul { padding-left: 18px; }
+  .accordion-body ul li { margin-bottom: 8px; }
+
+  /* ── RESULT BADGES ── */
+  .result-item {
+    background: linear-gradient(135deg, #f0f4ff, #e8eeff);
+    border-left: 3px solid var(--accent);
+    border-radius: 0 10px 10px 0;
+    padding: 12px 16px;
+    margin-bottom: 10px;
+    font-size: 0.86rem;
+    color: var(--text);
+    line-height: 1.65;
+  }
+  .result-period {
+    display: inline-block;
+    background: var(--accent);
+    color: #fff;
+    font-size: 0.72rem;
+    font-weight: 700;
+    padding: 2px 10px;
+    border-radius: 20px;
+    margin-bottom: 7px;
+  }
+
+  /* ── SIDEBAR ── */
+  .sidebar { position: sticky; top: 24px; }
+
+  .card {
+    background: var(--white);
+    border-radius: 16px;
+    padding: 24px;
+    margin-bottom: 20px;
+    box-shadow: var(--shadow);
+    border: 1px solid var(--border);
+  }
+  .card-title {
+    font-size: 0.78rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--text-light);
+    font-weight: 600;
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+    gap: 7px;
+  }
+  .card-title svg { color: var(--accent); }
+
+  /* ── SKILL PILLS ── */
+  .skill-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 24px;
+    padding: 7px 14px;
+    font-size: 0.82rem;
+    font-weight: 500;
+    color: var(--text);
+    margin: 4px 4px 4px 0;
+    transition: all 0.2s;
+    cursor: default;
+  }
+  .skill-pill:hover {
+    background: var(--accent-light);
+    border-color: var(--accent);
+    color: var(--blue);
+    transform: translateY(-1px);
+    box-shadow: 0 3px 12px rgba(79,128,225,0.18);
+  }
+  .skill-pill .dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--accent);
+    flex-shrink: 0;
+  }
+
+  /* ── TOOLS GRID ── */
+  .tool-tag {
+    display: inline-block;
+    background: var(--navy);
+    color: rgba(255,255,255,0.88);
+    border-radius: 8px;
+    padding: 5px 12px;
+    font-size: 0.78rem;
+    font-weight: 500;
+    margin: 3px 3px 3px 0;
+    transition: background 0.2s, transform 0.15s;
+    cursor: default;
+  }
+  .tool-tag:hover { background: var(--blue); transform: translateY(-1px); }
+
+  /* ── EDU ITEM ── */
+  .edu-item {
+    padding: 14px 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .edu-item:last-child { border-bottom: none; }
+  .edu-degree {
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: var(--navy);
+    margin-bottom: 2px;
+  }
+  .edu-org {
+    font-size: 0.82rem;
+    color: var(--text-mid);
+    margin-bottom: 2px;
+  }
+  .edu-year {
+    font-size: 0.78rem;
+    color: var(--accent);
+    font-weight: 600;
+  }
+
+  /* ── COMPETENCY LIST ── */
+  .competency {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 8px 0;
+    border-bottom: 1px solid var(--border);
+    font-size: 0.85rem;
+    color: var(--text-mid);
+    line-height: 1.5;
+  }
+  .competency:last-child { border-bottom: none; }
+  .competency::before {
+    content: '✦';
+    color: var(--gold);
+    font-size: 0.7rem;
+    margin-top: 4px;
+    flex-shrink: 0;
+  }
+
+  /* ── BRIGHTER TEXT overrides ── */
+  .job-company { font-size: 0.8rem; color: #2a5bd7; font-weight: 700; }
+  .job-title { color: #0f1623; font-size: 1.1rem; }
+  .job-period { color: #1e3fa8; font-weight: 700; }
+  .job-location { color: #3a4e70; font-weight: 500; }
+  .accordion-btn { color: #0f1623; font-size: 0.92rem; }
+  .accordion-body { color: #1e2b44; font-size: 0.9rem; }
+  .result-item { color: #0f1623; font-size: 0.88rem; background: linear-gradient(135deg,#e6edff,#dde7ff); }
+  .section-title { color: #0f1623; }
+  .stat-num { color: #0f1623; }
+  .stat-label { color: #3a4e70; font-weight: 600; }
+  .card-title { color: #0f1623; font-size: 0.82rem; font-weight: 700; }
+  .edu-degree { color: #0f1623; font-size: 0.95rem; }
+  .edu-org { color: #2d3a52; font-size: 0.85rem; }
+  .edu-year { color: #2a5bd7; font-size: 0.82rem; }
+  .competency { color: #1e2b44; font-size: 0.88rem; }
+  .skill-pill { color: #0f1623; font-size: 0.85rem; font-weight: 500; border-color: #b8c8e8; }
+  .tool-tag { color: #ffffff; font-size: 0.82rem; }
+  p { color: #1e2b44; }
+
+  /* ── RESPONSIVE ── */
+  @media (max-width: 900px) {
+    .main { grid-template-columns: 1fr; padding: 28px 16px 60px; gap: 28px; }
+    .hero-inner { grid-template-columns: 1fr; gap: 20px; text-align: center; padding: 28px 16px 0; }
+    .hero-contacts { justify-content: center; }
+    .stats-bar-inner { grid-template-columns: repeat(2, 1fr); padding: 0 16px; }
+    .stat:nth-child(2) { border-right: none; }
+    .hero-nav { padding: 14px 16px 0; justify-content: center; flex-wrap: wrap; }
+    .sidebar { position: static; }
+    .photo-wrap { margin: 0 auto; }
+    .section { margin-bottom: 32px; }
+    .hero { padding-bottom: 40px; }
+  }
+
+  @media (max-width: 520px) {
+    .stats-bar-inner { grid-template-columns: 1fr 1fr; padding: 0 8px; }
+    .stat { padding: 16px 8px; }
+    .stat-num { font-size: 1.5rem; }
+    .stat-label { font-size: 0.68rem; }
+    .job { padding: 16px; border-radius: 12px; }
+    .job-header { flex-direction: column; gap: 6px; }
+    .job-title { font-size: 1rem; }
+    .job-company { font-size: 0.76rem; }
+    .hero-name { font-size: 1.75rem; }
+    .hero-tagline { font-size: 0.92rem; }
+    .hero-role { font-size: 0.72rem; letter-spacing: 0.12em; }
+    .contact-chip { font-size: 0.82rem; padding: 7px 13px; }
+    .hero-contacts { gap: 8px; }
+    .hero-inner { padding: 20px 12px 0; }
+    .hero { padding-bottom: 28px; }
+    .photo-wrap img { width: 120px; height: 120px; }
+    .section-title { font-size: 1.1rem; }
+    .accordion-btn { font-size: 0.88rem; padding: 12px 14px; }
+    .accordion-body { font-size: 0.87rem; padding: 14px; }
+    .result-item { font-size: 0.85rem; padding: 12px 13px; }
+    .card { padding: 18px 16px; border-radius: 12px; }
+    .skill-pill { font-size: 0.83rem; padding: 7px 12px; }
+    .tool-tag { font-size: 0.8rem; padding: 5px 11px; }
+    .edu-degree { font-size: 0.92rem; }
+    .main { padding: 20px 12px 48px; }
+    .hero-nav a { font-size: 0.75rem; padding: 5px 11px; }
+  }
+
+  @media (max-width: 360px) {
+    .hero-name { font-size: 1.5rem; }
+    .contact-chip { font-size: 0.78rem; padding: 6px 10px; }
+    .stats-bar-inner { grid-template-columns: 1fr 1fr; }
+    .stat-num { font-size: 1.3rem; }
+    .job { padding: 14px; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ══ HERO ══ -->
+<header class="hero">
+  <nav class="hero-nav">
+    <a href="#experience">Опыт</a>
+    <a href="#skills">Навыки</a>
+    <a href="#education">Образование</a>
+  </nav>
+  <div class="hero-inner">
+    <div class="photo-wrap">
+      <img src="Foto.jpg" alt="Ирина Щербич">
+    </div>
+    <div class="hero-text">
+      <div class="hero-role">Налоговый менеджер &amp; Эксперт</div>
+      <h1 class="hero-name">Ирина Щербич</h1>
+      <p class="hero-tagline">14+ лет в налоговом планировании, трансфертном ценообразовании и налоговом сопровождении в крупных нефтегазовых корпорациях</p>
+      <div class="hero-contacts">
+        <span class="contact-chip">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81 19.79 19.79 0 01.1 1.18 2 2 0 012.11 0h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.91 7.09a16 16 0 006 6l.45-.45a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/></svg>
+          +7 915 339 1983
+        </span>
+        <span class="contact-chip">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+          irina_msk_job@mail.ru
+        </span>
+        <span class="contact-chip">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+          Москва
+        </span>
+      </div>
+    </div>
   </div>
+</header>
 
-  <div class="headline">
-    Главный бухгалтер / Заместитель главного бухгалтера / Руководитель налогового учета / Заместитель финансового директора по налогам и учету
+<!-- ══ STATS ══ -->
+<div class="stats-bar">
+  <div class="stats-bar-inner">
+    <div class="stat">
+      <div class="stat-num">14+</div>
+      <div class="stat-label">лет в налогах</div>
+    </div>
+    <div class="stat">
+      <div class="stat-num">300+</div>
+      <div class="stat-label">обособленных подразделений</div>
+    </div>
+    <div class="stat">
+      <div class="stat-num">2 млрд</div>
+      <div class="stat-label">руб. возмещено НДС</div>
+    </div>
+    <div class="stat">
+      <div class="stat-num">7</div>
+      <div class="stat-label">присоединённых обществ</div>
+    </div>
   </div>
-</section>
-
-<div class="layout">
-
-  <section class="section">
-    <h2 class="section-title">Желаемая должность</h2>
-
-    <div class="positions">
-      <div class="position">Главный бухгалтер</div>
-      <div class="position">Заместитель главного бухгалтера по налогам и учету</div>
-      <div class="position">Руководитель налогового направления</div>
-      <div class="position">Руководитель отдела налогового учета</div>
-      <div class="position">Руководитель налогового контроля</div>
-      <div class="position">Методолог бухгалтерского и налогового учета</div>
-      <div class="position">Руководитель центра экспертизы по налогам</div>
-      <div class="position">Финансовый контролер с налоговой экспертизой</div>
-      <div class="position">Заместитель финансового директора по налогам и учету</div>
-      <div class="position">CFO / финансовый директор — как следующий карьерный трек при наличии релевантного масштаба задач</div>
-    </div>
-  </section>
-
-  <section class="section">
-    <h2 class="section-title">Ключевые компетенции</h2>
-
-    <div class="skills-grid">
-      <div class="skill-card">
-        <span class="skill-number">1</span>
-        <p>Налоговый учет и налоговая отчетность: НДС, налог на прибыль, налог на имущество, земельный налог, страховые взносы, НДПИ</p>
-      </div>
-
-      <div class="skill-card">
-        <span class="skill-number">2</span>
-        <p>Налоговое планирование, налоговый бюджет, прогноз налоговой нагрузки на 2–5 лет</p>
-      </div>
-
-      <div class="skill-card">
-        <span class="skill-number">3</span>
-        <p>Трансфертное ценообразование, контролируемые сделки, уведомления о контролируемых сделках, документация по рыночности цен</p>
-      </div>
-
-      <div class="skill-card">
-        <span class="skill-number">4</span>
-        <p>Сопровождение налоговых проверок: требования ФНС, КНП, ВНП, допросы, осмотры, сверки с ИФНС и СФР</p>
-      </div>
-
-      <div class="skill-card">
-        <span class="skill-number">5</span>
-        <p>Методология бухгалтерского и налогового учета, РСБУ, ФСБУ, учетная политика, ЛНД, ОРД</p>
-      </div>
-
-      <div class="skill-card">
-        <span class="skill-number">6</span>
-        <p>Внутренний налоговый контроль, оценка налоговых рисков, подготовка методологических заключений</p>
-      </div>
-
-      <div class="skill-card">
-        <span class="skill-number">7</span>
-        <p>Сопровождение внешнего аудита, взаимодействие с аудиторами, подготовка документов и пояснений</p>
-      </div>
-
-      <div class="skill-card">
-        <span class="skill-number">8</span>
-        <p>Управление командой, наставничество, контроль сроков и качества отчетности</p>
-      </div>
-
-      <div class="skill-card">
-        <span class="skill-number">9</span>
-        <p>Автоматизация бухгалтерского и налогового учета: SAP, 1С, внешние обработки, ЭДО, ТКС</p>
-      </div>
-
-      <div class="skill-card">
-        <span class="skill-number">10</span>
-        <p>Финансовое управление, бюджетирование, управленческая отчетность, финансовый контроль — в рамках текущей профессиональной переподготовки CFO</p>
-      </div>
-
-      <div class="skill-card">
-        <span class="skill-number">11</span>
-        <p>Опыт работы в нефтегазовой отрасли, добыче нефти и газа, нефтесервисном блоке, холдинговых структурах</p>
-      </div>
-    </div>
-  </section>
-
-  <section class="section">
-    <h2 class="section-title">Образование</h2>
-
-    <div class="timeline">
-      <div class="timeline-item">
-        <h3>Онлайн-программа профессиональной переподготовки «Мастер CFO (Финансовый директор)»</h3>
-        <span class="year">2025–2026</span>
-        <p>Обучение продолжается.</p>
-        <p>Фокус обучения: финансовое управление, бюджетирование, управленческая отчетность, финансовый контроль, финансовое моделирование, оценка эффективности бизнеса, стратегическая роль финансовой функции.</p>
-      </div>
-
-      <div class="timeline-item">
-        <h3>Российский новый университет, Москва</h3>
-        <span class="year">2019</span>
-        <p>Налоговое консультирование</p>
-      </div>
-
-      <div class="timeline-item">
-        <h3>Башкирский государственный университет, Уфа</h3>
-        <span class="year">2003</span>
-        <p>Экономический факультет, финансы и кредит</p>
-      </div>
-    </div>
-  </section>
-
-  <section class="section">
-    <h2 class="section-title">Дополнительное обучение и квалификация</h2>
-
-    <div class="case-grid">
-      <div class="case-block">
-        <strong>Квалификация</strong>
-        <p>Аттестованный налоговый консультант ПНК, сертификат №18417, с 2019 года.</p>
-      </div>
-
-      <div class="case-block">
-        <strong>Дополнительное обучение</strong>
-        <p>Курсы ДипИФР-Рус, 2018.</p>
-      </div>
-
-      <div class="case-block">
-        <strong>Практический опыт работы с инструментами</strong>
-        <p>SAP, 1С, Контур Экстерн, СБИС, СЭД, ЛК ФНС, КонсультантПлюс, Гарант.</p>
-      </div>
-    </div>
-  </section>
-
-  <section class="section">
-    <h2 class="section-title">Инструменты</h2>
-
-    <div class="tags">
-      <span class="tag">SAP</span>
-      <span class="tag">1С</span>
-      <span class="tag">Контур Экстерн</span>
-      <span class="tag">СБИС</span>
-      <span class="tag">СЭД</span>
-      <span class="tag">ЛК ФНС</span>
-      <span class="tag">КонсультантПлюс</span>
-      <span class="tag">Гарант</span>
-      <span class="tag">ЭДО</span>
-      <span class="tag">ТКС</span>
-    </div>
-  </section>
-
-  <section class="section">
-    <h2 class="section-title">Профессиональный фокус</h2>
-
-    <div class="focus">
-      <p>
-        Профессиональный фокус — налоговая безопасность бизнеса, качественная отчетность, методология учета, сопровождение проверок, автоматизация учетных процессов, снижение налоговых рисков и развитие финансового контроля.
-      </p>
-
-      <p>
-        Текущая профессиональная переподготовка по программе «Мастер CFO (Финансовый директор)» усиливает переход от налогово-бухгалтерской экспертизы к более широкому финансовому управлению: бюджетированию, управленческой отчетности, финансовому контролю и участию в принятии управленческих решений.
-      </p>
-
-      <p>
-        Интересны задачи в крупных компаниях, холдингах, нефтегазовом, производственном, строительном, сервисном и международном бизнесе, где требуется сочетание сильной налоговой экспертизы, бухгалтерской методологии, финансового контроля, управленческого опыта и системного взаимодействия с ФНС, аудиторами и внутренними заказчиками.
-      </p>
-    </div>
-  </section>
-
 </div>
-About
-Резюме создано для поиска высокооплачиваемой и интересной работы с учетом новых навыков в AI
 
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 0 forks
-Releases
-No releases published
-Create a new release
-Deployments
-1
- github-pages 5 days ago
-Packages
-No packages published
-Publish your first package
-Contributors
-1
-@sherina0902-AI
-sherina0902-AI
-Footer
-© 2026 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Community
-Docs
-Contact
-Manage cookies
-Do not share my personal information
+<!-- ══ MAIN ══ -->
+<div class="main">
+
+  <!-- LEFT COL -->
+  <div>
+    <!-- EXPERIENCE -->
+    <section class="section" id="experience">
+      <h2 class="section-title">Профессиональный опыт</h2>
+
+      <!-- JOB 1 -->
+      <article class="job">
+        <div class="job-header">
+          <div>
+            <div class="job-company">ООО «РН-Бурение» · ДО ПАО «НК «Роснефть» · г. Москва</div>
+            <div class="job-title">И.о. начальника отдела / Главный специалист налогового отдела</div>
+          </div>
+          <span class="job-period">2013 — апрель 2026</span>
+        </div>
+        <div class="job-location">
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+          15 субъектов РФ · более 300 обособленных подразделений
+        </div>
+
+        <!-- ACCORDION 1 -->
+        <div class="accordion">
+          <button class="accordion-btn" onclick="toggle(this)">
+            Зоны ответственности
+            <span class="arrow">
+              <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M6 9l6 6 6-6"/></svg>
+            </span>
+          </button>
+          <div class="accordion-body">
+            <ul>
+              <li>Подготовка и сдача Уведомлений о контролируемых сделках с 2013 года; разработка ЛНД и документации по ТЦО; контроль уровня рентабельности и рыночного ценообразования.</li>
+              <li>Налоговое планирование и планирование страховых взносов в рамках бизнес-планирования на горизонте до 5 лет.</li>
+              <li>Участие в Дью-дилидженс (Tax DD) при присоединении обществ и создании филиалов.</li>
+              <li>Контроль порядка и сроков уплаты налогов и сборов, в том числе в управляемых обществах и иностранных юрисдикциях.</li>
+              <li>Сопровождение аудита бухгалтерской, финансовой и управленческой отчётности.</li>
+              <li>Участие в проектах по автоматизации процессов и инвентаризации.</li>
+              <li>Руководство налоговым отделом (кадровые вопросы, специалисты с функциональным подчинением в 11 филиалах).</li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- ACCORDION 2 -->
+        <div class="accordion">
+          <button class="accordion-btn" onclick="toggle(this)">
+            Ключевые результаты
+            <span class="arrow">
+              <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M6 9l6 6 6-6"/></svg>
+            </span>
+          </button>
+          <div class="accordion-body">
+            <div class="result-item">
+              <span class="result-period">2022–2026</span><br>
+              И.о. начальника налогового отдела. Контролировала начисление, уплату налогов и сдачу отчётности в 15 субъектах РФ по 300+ обособленным подразделениям. Результат: отсутствие штрафов за несвоевременную подачу деклараций, досудебное урегулирование претензий со стороны ОСФР. Организовала документооборот по запросам аудитора (SAP, Диадок) по 11 филиалам — получено немодифицированное аудиторское заключение годовой отчётности.
+            </div>
+            <div class="result-item">
+              <span class="result-period">2019–2021</span><br>
+              Получение льготы по 12 филиалам в виде скидки к страховому тарифу ФСС — ежегодная экономия более <strong>3 млн руб.</strong> Финансирование предупредительных мер в ФСС — ежегодная экономия более <strong>10 млн руб.</strong> Контроль сверки с ИФНС, ФСС, ПФР; своевременный возврат/зачёт переплат из бюджета.
+            </div>
+            <div class="result-item">
+              <span class="result-period">2013–2018</span><br>
+              Налоговое планирование при присоединении 7 обществ (ООО и АО) и создании 4 филиалов в ХМАО, Оренбургской обл., Башкортостане. Автоматизация в 1С сбора данных по налогам (корпоративный формуляр). Реализован заявительный порядок возмещения НДС на сумму порядка <strong>2 млрд руб.</strong>
+            </div>
+          </div>
+        </div>
+      </article>
+
+      <!-- JOB 2 -->
+      <article class="job">
+        <div class="job-header">
+          <div>
+            <div class="job-company">ООО «Газпромнефть Бизнес-сервис» · ОЦО ПАО «Газпром нефть» · г. Ноябрьск</div>
+            <div class="job-title">Начальник отдела по учёту банковских операций и финансовых вложений</div>
+          </div>
+          <span class="job-period">2009 — 2013</span>
+        </div>
+        <div class="job-location">
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+          Обслуживание 16 ДЗО «Газпром нефть»
+        </div>
+
+        <div class="accordion">
+          <button class="accordion-btn" onclick="toggle(this)">
+            Зоны ответственности и ключевые результаты
+            <span class="arrow">
+              <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M6 9l6 6 6-6"/></svg>
+            </span>
+          </button>
+          <div class="accordion-body">
+            <ul>
+              <li>Координация работы отдела (11 человек), внедрение принципов бережливого производства.</li>
+              <li>Методологические задачи, качественное ведение бухгалтерского учёта (счета 50, 51, 52, 55, 57, 58, 59, 66, 67, 76, 75, 80, 82, 86) по добычному, нефтесервисному и медиа-блокам.</li>
+              <li>Оценка договоров и хозяйственных ситуаций на предмет налоговых рисков.</li>
+              <li>Налоговое планирование: налог на прибыль, НДС, НДПИ — ежемесячно и на 3 года в разрезе МВЗ/статей затрат.</li>
+              <li>Лоббирование интересов Компании через заключение социальных соглашений для получения скидок по налогу на прибыль и налогу на имущество (ЯНАО).</li>
+              <li>Методологическая оценка и ввод остатков при внедрении SAP 6.0 в ОАО «ГПН-ННГ» и ООО «ЗН».</li>
+            </ul>
+          </div>
+        </div>
+      </article>
+
+      <!-- JOB 3 -->
+      <article class="job">
+        <div class="job-header">
+          <div>
+            <div class="job-company">ОАО «Газпромнефть-Ноябрьскнефтегаз» · г. Ноябрьск</div>
+            <div class="job-title">Ведущий бухгалтер</div>
+          </div>
+          <span class="job-period">2004 — 2009</span>
+        </div>
+        <p style="font-size:0.86rem; color:var(--text-mid); margin-top:6px;">Ведение бухгалтерского учёта по участкам: счета 01, 04, 50 (путёвки), 60, 69 (вкл. форму 4-ФСС), 76, 86, 97.</p>
+      </article>
+
+      <!-- JOB 4 -->
+      <article class="job" style="margin-bottom:0">
+        <div class="job-header">
+          <div>
+            <div class="job-company">«Ноябрьский городской банк» · г. Ноябрьск ЯНАО</div>
+            <div class="job-title">Ведущий экономист</div>
+          </div>
+          <span class="job-period">2003 — 2004</span>
+        </div>
+      </article>
+      <article class="job" style="margin-top:12px">
+        <div class="job-header">
+          <div>
+            <div class="job-company">ООО «Аудиторская компания «Финансовое бюро» · г. Уфа</div>
+            <div class="job-title">Ассистент аудитора</div>
+          </div>
+          <span class="job-period">2002 — 2003</span>
+        </div>
+      </article>
+    </section>
+  </div>
+
+  <!-- RIGHT SIDEBAR -->
+  <aside class="sidebar" id="skills">
+
+    <!-- KEY SKILLS -->
+    <div class="card">
+      <div class="card-title">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+        Ключевые навыки
+      </div>
+      <div>
+        <span class="skill-pill"><span class="dot"></span>Налоговое планирование</span>
+        <span class="skill-pill"><span class="dot"></span>Трансфертное ценообразование</span>
+        <span class="skill-pill"><span class="dot"></span>Налоговые споры</span>
+        <span class="skill-pill"><span class="dot"></span>Аудит бухгалтерской отчётности</span>
+        <span class="skill-pill"><span class="dot"></span>Бухгалтерский учёт</span>
+        <span class="skill-pill"><span class="dot"></span>Управление командой</span>
+        <span class="skill-pill"><span class="dot"></span>Due Diligence (Tax DD)</span>
+        <span class="skill-pill"><span class="dot"></span>Страховые взносы / ФСС</span>
+        <span class="skill-pill"><span class="dot"></span>ТЦО / ЛНД</span>
+        <span class="skill-pill"><span class="dot"></span>НДС / Налог на прибыль</span>
+        <span class="skill-pill"><span class="dot"></span>Бережливое производство (5S)</span>
+        <span class="skill-pill"><span class="dot"></span>Финансовое моделирование</span>
+      </div>
+    </div>
+
+    <!-- TOOLS -->
+    <div class="card">
+      <div class="card-title">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
+        Инструменты и ПО
+      </div>
+      <div>
+        <span class="tool-tag">SAP</span>
+        <span class="tool-tag">1С</span>
+        <span class="tool-tag">Контур Экстерн</span>
+        <span class="tool-tag">Диадок</span>
+        <span class="tool-tag">СБИС</span>
+        <span class="tool-tag">СЭД</span>
+        <span class="tool-tag">ЛКН ФНС</span>
+        <span class="tool-tag">Консультант+</span>
+        <span class="tool-tag">Гарант</span>
+        <span class="tool-tag">ChatGPT</span>
+        <span class="tool-tag">Perplexity</span>
+        <span class="tool-tag">Claude.ai</span>
+        <span class="tool-tag">GigaChat</span>
+        <span class="tool-tag">Контур-реформатор</span>
+      </div>
+    </div>
+
+    <!-- EDUCATION -->
+    <div class="card" id="education">
+      <div class="card-title">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg>
+        Образование
+      </div>
+      <div class="edu-item">
+        <div class="edu-degree">Финансы и кредит</div>
+        <div class="edu-org">Башкирский государственный университет, Уфа</div>
+        <div class="edu-year">2003</div>
+      </div>
+      <div class="edu-item">
+        <div class="edu-degree">Консультант по налогам и сборам</div>
+        <div class="edu-org">Российский новый университет, Москва</div>
+        <div class="edu-year">2019</div>
+      </div>
+      <div class="edu-item">
+        <div class="edu-degree">Курсы ДипИФР-Рус</div>
+        <div class="edu-org">Дополнительное образование</div>
+        <div class="edu-year">2018</div>
+      </div>
+      <div class="edu-item">
+        <div class="edu-degree">Налоговый консультант ПНК</div>
+        <div class="edu-org">Палата налоговых консультантов · сертификат №18417</div>
+        <div class="edu-year">2019</div>
+      </div>
+      <div class="edu-item" style="border-bottom:none">
+        <div class="edu-degree">Мастер CFO (Финансовый директор)</div>
+        <div class="edu-org">Онлайн-программа профессиональной переподготовки<br>Обучение продолжается</div>
+        <div class="edu-year">2025–2026</div>
+      </div>
+    </div>
+
+    <!-- COMPETENCIES -->
+    <div class="card">
+      <div class="card-title">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 8v4l3 3"/></svg>
+        Дополнительные компетенции
+      </div>
+      <div class="competency">Урегулирование налоговых споров, коммуникации с налоговыми органами</div>
+      <div class="competency">Оптимизация налоговой нагрузки в рамках действующего законодательства</div>
+      <div class="competency">Инструменты бережливого производства 5S, системный подход</div>
+      <div class="competency">Проведение презентаций, обучение сотрудников, наставничество</div>
+      <div class="competency">Повышение налоговой и финансовой грамотности команды</div>
+    </div>
+
+  </aside>
+</div>
+
+<script>
+  function toggle(btn) {
+    const body = btn.nextElementSibling;
+    const isOpen = btn.classList.contains('open');
+    // close all in same job
+    const job = btn.closest('.job');
+    job.querySelectorAll('.accordion-btn').forEach(b => {
+      b.classList.remove('open');
+      b.nextElementSibling.classList.remove('open');
+    });
+    if (!isOpen) {
+      btn.classList.add('open');
+      body.classList.add('open');
+    }
+  }
+</script>
+
+</body>
+</html>
